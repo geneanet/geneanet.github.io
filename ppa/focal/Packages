@@ -1,0 +1,16 @@
+Package: certproxy
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Hervé BRY <herve.bry@geneanet.org>
+Installed-Size: 29130
+Pre-Depends: dpkg (>= 1.16.1), python3 (>= 3.5)
+Depends: libc6 (>= 2.17), libgcc-s1 (>= 4.2), libstdc++6 (>= 4.1.1)
+Filename: ./certproxy_1.0.0_amd64.deb
+Size: 6196974
+MD5sum: df5969306cae3bc1ac7d882efc2330c7
+SHA1: 3d91c1cc945839839bf8a3b4d42b09bf4ddd14f9
+SHA256: d4c5d320f33260964d117ad9d5a8fe6b05c61ac51bfe3c7bf72412c2d43b9e8d
+Section: contrib/python
+Priority: optional
+Description: SSL certificates and keys manager
+
